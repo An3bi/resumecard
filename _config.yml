@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Anebi Agbo's CV
+description: Anebi's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://github.com/An3bi/resumecard
+url: https://github.com/An3bi/resumecard
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,72 +14,98 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Anebi Agbo
+  title: BI Developer
+  address: Tempe, Arizona
+  email: Anebi13@gmail.com
+  link: http://An3bi.me
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: An3bi
+  linkedin: anebiBenjamin
+  twitter: Higherarch
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Early Warning Services LLC
+      location: Scottsdale, Arizona
+      title: BI Analyst
+      started: 2017
+      duration: (May 2017 - Present)
+      description: Wrangling data and providing Zelle operational intelligence
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Trax Technologies
+      location: Scottsdale, Arizona
+      title: Tableau Support Engineer
+      started: 2016
+      duration: (2016 - 2017)
+      description: Tableau Performance tuning and administration
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: TAPFIN
+      location: Tempe, Arizona
+      title: Data Analyst
+      started: 2016
+      duration: (2016 - 2016)
+      description: 3 month SAP fieldglass data recon project, Data mapping between SAP and SQL databases.
+    - work4:
+      company: CSAA Insurance Group
+      location: Glendale, Arizona
+      title: Data Analyst
+      started: 2016
+      duration: (2016 - 2016)
+      description: 3 month data integrity contract data recon project, Data mapping between Oracle and Cognos.
+
   educationHistory:
+
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
+      organization: Northern Arizona University
+      location: Flagstaff, Arizona
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      major: Computer Information Technology
+      started: 2017
+      duration: (2017 - 2018)
+      description: CIT program with a focus on sharpening programming Skills and learning the nuances of IT management.
+
+      - education2:
+        organization: Rio Salado College
+        location: Tempe, Arizona
+        Qualification: Certificate of Computer Usage and Applications
+        major: Information Technology
+        started: 2015
+        duration: (2015 - 2016)
+        description: Focused on learning the basics of web development and Information Technology.
+
+        - education3:
+          Favorite learning Platforms: PluralSight, Lynda, DataCamp,IBM Cognitive.AI
+          Goal: Programming Skills
+          description: IT skills are constantly evolving and technology improves frequently. In a bid to
+          keep my skills sharp, I am constantly learning and applying new skills.
+
+          - education2:
   languages:
     - language1:
-      name: Chinese
+      name: English
       proficiency: Native
     - language2:
-      name: English
+      name: Idoma
       proficiency: Professional
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Creole Pidgin (English based)
+      proficiency: Native
   programmingSkills:
     - skill1:
       name: HTML
-      percentage: 100%
+      percentage: 70%
     - skill2:
       name: Bootstrap
-      percentage: 90%
+      percentage: 55%
     - skill3:
-      name: JavaScript
-      percentage: 70%
+      name: D3.js
+      percentage: 40%
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: SQL
+      percentage: 65%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: Python
+      percentage: 35%
